@@ -1,0 +1,55 @@
+#container
+{
+height: 700px;
+width: 100%;
+background-color: red;
+margin: auto;
+}
+
+.carousel-item img{
+    filter: brightness(70%)!important;
+    height: 600px;
+}
+.carousel-caption {
+    margin-bottom: 150px;
+}
+
+.container-oradores{
+    padding-right: 200px;
+    padding-left: 200px;
+    text-align: center;
+}
+
+#honolulu {
+    text-align: left;
+    background-color: grey;
+    color:rgb(255, 255, 255);
+    font-size: small;
+    
+}
+
+#titulo{
+    text-align: center;
+}
+
+#Recuerda {
+    opacity: 60%;
+}
+
+#enviar {
+    background-color:rgb(51, 206, 64) ;
+    border: none;
+}
+
+.footer {
+    height: 70px;
+    background-color: rgb(25, 25, 151);
+    display:flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-nav {
+    padding-left: 50px;
+    padding-top: 10px;
+}

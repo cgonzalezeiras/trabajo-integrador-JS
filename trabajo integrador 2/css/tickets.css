@@ -1,0 +1,30 @@
+/* BOTONES */
+.btn-primary {
+    background-color: #92e65a !important;
+    border-color: #92e65a !important;
+    width: 32.5% !important;
+    }
+
+/*.borde
+{
+border-color: aqua !important;
+border:solid !important;
+border-width: 10px !important;
+}
+
+
+
+/* FOOTER */
+
+ .footer {
+    height: 70px;
+    background-color: rgb(25, 25, 151);
+    display:flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-nav {
+    padding-left: 50px;
+    padding-top: 10px;
+}
